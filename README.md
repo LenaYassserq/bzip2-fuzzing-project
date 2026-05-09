@@ -45,26 +45,6 @@ This project applies greybox fuzzing and source-based coverage analysis to **bzi
 | AFL++ Version | 4.21c |
 | Compiler | afl-clang-fast (LLVM 20.1.8) |
 
----
-
-##  Repository Structure
-
-```
-bzip2-fuzzing-project/
-│
-├── report/
-│   └── bzip2_final_report.pdf
-│
-├── graphs/
-│   ├── callgraph.pdf
-│   ├── uncompressStream_CFG.pdf
-│   ├── BZ2_bzWrite_CFG.pdf
-│   ├── uncompressStream_task4.pdf
-│   ├── BZ2_bzWrite_task4.pdf
-│   └── callgraph_task4.pdf
-│
-└── README.md
-```
 
 ---
 
