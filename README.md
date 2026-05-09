@@ -3,7 +3,7 @@
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 | Name |
 |------|
